@@ -41,6 +41,19 @@ body{
 
 }
 
+.jumbotron-orion{
+  background-color: white;
+  text-align: center;
+  display: block;
+}
+
+#logo-orion{
+  margin: 40px 0 10px 0;
+}
+
+.container-bt-orion{
+  margin:40px;
+}
 
 /*FOOTER*/
 
