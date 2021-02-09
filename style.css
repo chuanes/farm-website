@@ -21,7 +21,7 @@
 }
 
 body{
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
@@ -49,6 +49,7 @@ body{
 
 #logo-orion{
   margin: 40px 0 10px 0;
+  width: 8%;
 }
 
 .container-bt-orion{
